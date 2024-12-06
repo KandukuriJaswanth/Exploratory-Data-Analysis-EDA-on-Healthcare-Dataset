@@ -8,14 +8,4 @@ Identified include the use of essential libraries for data analysis and visualiz
 
 # Tech Stack
 
-Programming Language: Python, used for data analysis and visualization.
-Data Analysis Libraries:
-Pandas for data manipulation and preprocessing.
-NumPy for numerical computations and array handling.
-Visualization Libraries:
-Matplotlib for static, interactive, and publication-quality visualizations.
-Seaborn for statistical visualizations with high-level interfaces.
-EDA Automation: ydata-profiling for generating automated exploratory data analysis reports.
-Platform: Google Colab, a cloud-based Jupyter Notebook environment for code execution.
-Storage: Google Drive, integrated with Colab for dataset access.
-Data Source: CSV file, loaded via Pandas for analysis.
+ Python as the primary programming language for data analysis and visualization. For data manipulation and preprocessing, Pandas is used, while NumPy handles numerical computations and array operations. Data visualization is carried out using Matplotlib for static, interactive, and publication-quality plots, and Seaborn for statistical visualizations with high-level interfaces. To streamline exploratory data analysis, ydata-profiling is utilized to generate automated reports. The analysis is executed on Google Colab, a cloud-based Jupyter Notebook environment, with data stored on Google Drive for easy access and integration. The dataset is in CSV format and is loaded using Pandas for analysis.
